@@ -1,0 +1,18 @@
+01110
+10101
+10101
+10101
+01110
+
+0ABC0
+E0F0G
+H0I0J
+K0L0M
+0OPQ0
+
+across 1
+across 2
+
+down 1
+down 2
+down 3
